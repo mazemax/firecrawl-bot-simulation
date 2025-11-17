@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-This setup simulates 10 concurrent bot crawlers targeting mindvalley.com to test server response under high bot traffic. Each crawler has different characteristics (user agent, crawl depth, request delay, JavaScript enabled/disabled).
+This setup simulates 2 concurrent bot crawlers targeting mindvalley.com to test server response under high bot traffic. Each crawler has different characteristics (user agent, crawl depth, request delay, JavaScript enabled/disabled).
 
 ## 🚀 Quick Start (5 Steps)
 
@@ -23,7 +23,7 @@ cd /Users/maxsaad/Desktop/mindvalley/firecrawl-bot-simulation
 ```
 
 This will:
-- Create 10 separate Firecrawl instance directories
+- Create 2 separate Firecrawl instance directories
 - Copy and configure each with unique ports and settings
 - Set up JS-disabled instances for realistic bot simulation
 
@@ -41,7 +41,7 @@ This will:
 ./scripts/start-crawls.sh
 ```
 
-This initiates crawling on all 10 instances simultaneously against mindvalley.com. You'll be prompted to monitor logs in real-time.
+This initiates crawling on all 2 instances simultaneously against mindvalley.com. You'll be prompted to monitor logs in real-time.
 
 ### 5. Analyze Results (After crawls complete)
 
@@ -57,10 +57,7 @@ Generates a detailed report of HTTP 500 errors and other issues found during the
 
 | Instance | Type | Behavior |
 |----------|------|----------|
-| 01-03 | Search Engine Bots | Deep crawl, polite delays, JS enabled |
-| 04-06 | Aggressive Crawlers | Fast requests, minimal delay, JS enabled |
-| 07-08 | Polite Crawlers | Slow, respectful crawling |
-| 09-10 | JS-Disabled Bots | No JavaScript execution |
+| 01-02 | Search Engine Bots | Deep crawl, polite delays, JS enabled |
 
 ### Metrics Captured
 
@@ -121,7 +118,7 @@ firecrawl-bot-simulation/
 ├── README.md                    # Full documentation
 ├── QUICKSTART.md               # This file
 ├── firecrawl/                  # Base Firecrawl clone
-├── instances/                  # 10 configured instances
+├── instances/                  # 2 configured instances
 │   ├── instance01/            # Each has its own Docker setup
 │   ├── instance02/
 │   └── ...
@@ -143,7 +140,7 @@ firecrawl-bot-simulation/
 
 ## ⚠️ Important Notes
 
-1. **System Resources**: Running 10 instances requires significant CPU/RAM. Monitor your system.
+1. **System Resources**: Running 2 instances requires significant CPU/RAM. Monitor your system.
 
 2. **First Build Time**: Initial Docker build takes 10-20 minutes. Be patient.
 
@@ -196,7 +193,7 @@ docker compose build --no-cache
 ## 🎯 Expected Outcomes
 
 After running the simulation, you should have:
-- ✅ Log files from all 10 instances
+- ✅ Log files from all 2 instances
 - ✅ Analysis report with error counts
 - ✅ Identification of problematic URLs (if any)
 - ✅ Insights on bot behavior patterns
