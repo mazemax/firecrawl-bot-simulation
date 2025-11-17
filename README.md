@@ -7,7 +7,7 @@ This project sets up concurrent Firecrawl instances to simulate high bot traffic
 ```
 firecrawl-bot-simulation/
 ├── firecrawl/              # Cloned Firecrawl repository (base)
-├── instances/              # 10 separate instance directories
+├── instances/              # 2 separate instance directories
 │   ├── instance01/         # Googlebot simulation
 │   ├── instance02/         # Bingbot simulation
 ├── configs/                # Crawler configuration JSON files
