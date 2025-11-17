@@ -1,0 +1,54 @@
+================================================================================
+FIRECRAWL BOT SIMULATION - LOG ANALYSIS REPORT
+================================================================================
+Generated: 2025-11-16 20:08:04
+Target: https://www.mindvalley.com
+
+This report summarizes HTTP 500 Internal Server Errors encountered during
+the high-traffic bot simulation test.
+
+================================================================================
+SUMMARY
+================================================================================
+
+Total Instances Analyzed: 2
+Instances with Errors: 2
+Total HTTP 500 Errors: 7
+
+================================================================================
+DETAILED BREAKDOWN BY INSTANCE
+================================================================================
+
+--- Instance 01 (Port 3002) ---
+Configuration: Googlebot (Depth: 3, Delay: 1s, JS: Yes)
+HTTP 500 Errors: 5
+
+Problematic URLs:
+https://cdn.playwright.dev/dbazure/download/playwright/build
+
+--- Instance 02 (Port 3003) ---
+Configuration: Bingbot (Depth: 3, Delay: 1s, JS: Yes)
+HTTP 500 Errors: 2
+
+Sample Error Timestamps:
+[2025-11-16 17:35:33]
+
+================================================================================
+ANALYSIS INSIGHTS
+================================================================================
+
+HTTP 500 errors were detected. Key observations:
+
+================================================================================
+OTHER HTTP ERRORS (429, 403, etc.)
+================================================================================
+
+Instance 01:
+  - 429 (Rate Limit) errors: 32
+  - 403 (Forbidden) errors: 1
+
+================================================================================
+END OF REPORT
+================================================================================
+
+For detailed logs, see individual instance log files in: /Users/maxsaad/Desktop/mindvalley/firecrawl-bot-simulation/logs

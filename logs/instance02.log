@@ -1,0 +1,617 @@
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"BLOCK_MEDIA\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:43+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+#1 [internal] load local bake definitions
+#1 reading from stdin 1.91kB done
+#1 DONE 0.0s
+
+#2 [playwright-service internal] load build definition from Dockerfile
+#2 transferring dockerfile: 338B done
+#2 DONE 0.0s
+
+#3 [api internal] load build definition from Dockerfile
+#3 transferring dockerfile: 1.86kB done
+#3 DONE 0.0s
+
+#4 [nuq-postgres internal] load build definition from Dockerfile
+#4 transferring dockerfile: 923B done
+#4 DONE 0.0s
+
+#5 [nuq-postgres internal] load metadata for docker.io/library/postgres:17
+#5 ...
+
+#6 [api] resolve image config for docker-image://docker.io/docker/dockerfile:1
+#6 DONE 1.4s
+
+#7 [api] docker-image://docker.io/docker/dockerfile:1@sha256:b6afd42430b15f2d2a4c5a02b919e98a525b785b1aaff16747d2f623364e39b6
+#7 resolve docker.io/docker/dockerfile:1@sha256:b6afd42430b15f2d2a4c5a02b919e98a525b785b1aaff16747d2f623364e39b6 done
+#7 CACHED
+
+#8 [api internal] load metadata for docker.io/library/node:22-slim
+#8 ...
+
+#9 [playwright-service internal] load metadata for docker.io/library/node:18-slim
+#9 DONE 1.7s
+
+#10 [playwright-service internal] load .dockerignore
+#10 transferring context: 67B done
+#10 DONE 0.0s
+
+#11 [playwright-service 1/7] FROM docker.io/library/node:18-slim@sha256:f9ab18e354e6855ae56ef2b290dd225c1e51a564f87584b9bd21dd651838830e
+#11 resolve docker.io/library/node:18-slim@sha256:f9ab18e354e6855ae56ef2b290dd225c1e51a564f87584b9bd21dd651838830e done
+#11 DONE 0.0s
+
+#12 [playwright-service internal] load build context
+#12 transferring context: 319B done
+#12 DONE 0.0s
+
+#13 [playwright-service 5/7] COPY . .
+#13 CACHED
+
+#14 [playwright-service 6/7] RUN npx playwright install chromium --with-deps
+#14 CACHED
+
+#15 [playwright-service 4/7] RUN npm install
+#15 CACHED
+
+#16 [playwright-service 3/7] COPY package*.json ./
+#16 CACHED
+
+#17 [playwright-service 2/7] WORKDIR /usr/src/app
+#17 CACHED
+
+#18 [playwright-service 7/7] RUN npm run build
+#18 CACHED
+
+#5 [nuq-postgres internal] load metadata for docker.io/library/postgres:17
+#5 DONE 1.7s
+
+#19 [nuq-postgres internal] load .dockerignore
+#19 transferring context: 2B done
+#19 DONE 0.0s
+
+#20 [nuq-postgres internal] load build context
+#20 transferring context: 29B done
+#20 DONE 0.0s
+
+#21 [nuq-postgres 1/4] FROM docker.io/library/postgres:17@sha256:2b6239f32680c308921cf212902f881355c31ae92da0795b4fef29d8f0033021
+#21 resolve docker.io/library/postgres:17@sha256:2b6239f32680c308921cf212902f881355c31ae92da0795b4fef29d8f0033021 done
+#21 DONE 0.0s
+
+#22 [nuq-postgres 2/4] RUN set -eux;     apt-get update;     apt-get install -y --no-install-recommends         postgresql-17-cron;     rm -rf /var/lib/apt/lists/*
+#22 CACHED
+
+#23 [nuq-postgres 3/4] RUN set -eux;     conf_sample="/usr/share/postgresql/17/postgresql.conf.sample";     sed -ri "s/^#?shared_preload_libraries\s*=.*/shared_preload_libraries = 'pg_cron'/" "$conf_sample";     printf "\n# Added for pg_cron\ncron.database_name = 'postgres'\n" >> "$conf_sample"
+#23 CACHED
+
+#24 [nuq-postgres 4/4] COPY nuq.sql /docker-entrypoint-initdb.d/010-nuq.sql
+#24 CACHED
+
+#25 [playwright-service] exporting to image
+#25 exporting layers done
+#25 exporting manifest sha256:b04afc25855d11431c92981d04aa7c8ef3975d2dbe681427f1b366eff56beb3d done
+#25 exporting config sha256:642dd255b51c1ee9e652dcd0a44e9af21024063c92884d8e64c84755d847a2e6 done
+#25 exporting attestation manifest sha256:d29c06d08ec123ced0445ff6d3cc8769c4d03978ffc17a1024d71b695ff569b8 done
+#25 exporting manifest list sha256:d6de70c9d5364c83b6a5ccc3663bf96633a3234d61efa31c777590aeb0e78e7c done
+#25 naming to docker.io/library/firecrawl-instance02-playwright-service:latest done
+#25 unpacking to docker.io/library/firecrawl-instance02-playwright-service:latest done
+#25 DONE 0.1s
+
+#26 [nuq-postgres] exporting to image
+#26 exporting layers done
+#26 exporting manifest sha256:6decaa5b286e5968ed4eef91c8fe6580a6375d5083e561b2deeac4bb36143b0a done
+#26 exporting config sha256:c3b5d5b0afac2836bf76ecae949ab846815b7b6358d3e2ef2ca5d693ef4d2cb4 done
+#26 exporting attestation manifest sha256:f033c67ada7fc749e6a1804efb3b275599550a98c8ccc9c92446535deb87ae64
+#26 exporting attestation manifest sha256:f033c67ada7fc749e6a1804efb3b275599550a98c8ccc9c92446535deb87ae64 0.0s done
+#26 exporting manifest list sha256:662cc3bea3a75f4bdf33e29aa58913f09eb5005a31dcf4e9cb659048aefb9bba 0.0s done
+#26 naming to docker.io/library/firecrawl-instance02-nuq-postgres:latest done
+#26 unpacking to docker.io/library/firecrawl-instance02-nuq-postgres:latest 0.0s done
+#26 DONE 0.1s
+
+#27 [playwright-service] resolving provenance for metadata file
+#27 DONE 0.0s
+
+#28 [nuq-postgres] resolving provenance for metadata file
+#28 DONE 0.0s
+
+#8 [api internal] load metadata for docker.io/library/node:22-slim
+#8 DONE 0.4s
+
+#29 [api internal] load metadata for docker.io/library/golang:1.24
+#29 DONE 1.4s
+
+#30 [api internal] load .dockerignore
+#30 transferring context: 88B done
+#30 DONE 0.0s
+
+#31 [api base 1/2] FROM docker.io/library/node:22-slim@sha256:8833056542b4e17c27154beeabbc27c3e14ddfe3fb9183f43b3adf7eb0462923
+#31 resolve docker.io/library/node:22-slim@sha256:8833056542b4e17c27154beeabbc27c3e14ddfe3fb9183f43b3adf7eb0462923 done
+#31 DONE 0.0s
+
+#32 [api go-build 1/4] FROM docker.io/library/golang:1.24@sha256:83d7392cb47ac13ce7ffce0dcbede5658087baf4dd79436831221153793791d5
+#32 resolve docker.io/library/golang:1.24@sha256:83d7392cb47ac13ce7ffce0dcbede5658087baf4dd79436831221153793791d5 0.0s done
+#32 DONE 0.0s
+
+#33 [api internal] load build context
+#33 transferring context: 26.20kB 0.0s done
+#33 DONE 0.0s
+
+#34 [api base 2/2] RUN corepack enable
+#34 CACHED
+
+#35 [api runtime 4/6] COPY --from=build /app/dist ./dist
+#35 CACHED
+
+#36 [api runtime 2/6] WORKDIR /app
+#36 CACHED
+
+#37 [api build 3/8] RUN curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y --no-modify-path     && chmod -R a+w /usr/local/rustup /usr/local/cargo
+#37 CACHED
+
+#38 [api build 6/8] RUN --mount=type=cache,id=pnpm,target=/pnpm/store     --mount=type=cache,target=/usr/local/cargo/registry     --mount=type=cache,target=/app/native/target     pnpm install --frozen-lockfile
+#38 CACHED
+
+#39 [api build 7/8] RUN pnpm run build
+#39 CACHED
+
+#40 [api build 8/8] RUN pnpm prune --prod --ignore-scripts
+#40 CACHED
+
+#41 [api go-build 2/4] WORKDIR /app
+#41 CACHED
+
+#42 [api go-build 3/4] COPY sharedLibs/go-html-to-md ./sharedLibs/go-html-to-md
+#42 CACHED
+
+#43 [api runtime 3/6] COPY --from=build /app/node_modules ./node_modules
+#43 CACHED
+
+#44 [api build 1/8] WORKDIR /app
+#44 CACHED
+
+#45 [api go-build 4/4] RUN cd sharedLibs/go-html-to-md &&     go mod download &&     go build -o libhtml-to-markdown.so -buildmode=c-shared html-to-markdown.go
+#45 CACHED
+
+#46 [api runtime 1/6] RUN apt-get update && apt-get install -y     git     procps     && rm -rf /var/lib/apt/lists/*
+#46 CACHED
+
+#47 [api build 4/8] COPY pnpm-lock.yaml pnpm-workspace.yaml package.json ./
+#47 CACHED
+
+#48 [api build 5/8] COPY . .
+#48 CACHED
+
+#49 [api build 2/8] RUN apt-get update && apt-get install -y     curl     build-essential     pkg-config     python3     && rm -rf /var/lib/apt/lists/*
+#49 CACHED
+
+#50 [api runtime 5/6] COPY --from=build /app/native ./native
+#50 CACHED
+
+#51 [api runtime 6/6] COPY --from=go-build /app/sharedLibs/go-html-to-md/libhtml-to-markdown.so ./sharedLibs/go-html-to-md/
+#51 CACHED
+
+#52 [api] exporting to image
+#52 exporting layers done
+#52 exporting manifest sha256:f7d29c8ed404ce71ae7595047dec8ece2de93ecf13ff239e32a3196a25d3bc03 done
+#52 exporting config sha256:81d1e34c551ce1a5300a9d83e50e4eae9cb76473a72fe2da3b07157841472f95 done
+#52 exporting attestation manifest sha256:a1a854a0e0bb4f9c4ca085c1a48333c9ecec8d773d2a8620c991cf0bd2144a18 done
+#52 exporting manifest list sha256:e18351f3e9b64a78b9509e65c9271233ae6d090c0a0e1844332ff5a3adde762f done
+#52 naming to docker.io/library/firecrawl-instance02-api:latest done
+#52 unpacking to docker.io/library/firecrawl-instance02-api:latest done
+#52 DONE 0.1s
+
+#53 [api] resolving provenance for metadata file
+#53 DONE 0.0s
+ firecrawl-instance02-api  Built
+ firecrawl-instance02-nuq-postgres  Built
+ firecrawl-instance02-playwright-service  Built
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"BLOCK_MEDIA\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T00:41:47+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+ Network firecrawl-instance02_backend  Creating
+ Network firecrawl-instance02_backend  Created
+ Container firecrawl-instance02-nuq-postgres-1  Creating
+ Container firecrawl-instance02-redis-1  Creating
+ Container firecrawl-instance02-playwright-service-1  Creating
+ Container firecrawl-instance02-playwright-service-1  Created
+ Container firecrawl-instance02-nuq-postgres-1  Created
+ Container firecrawl-instance02-redis-1  Created
+ Container firecrawl-instance02-api-1  Creating
+ Container firecrawl-instance02-api-1  Created
+ Container firecrawl-instance02-nuq-postgres-1  Starting
+ Container firecrawl-instance02-playwright-service-1  Starting
+ Container firecrawl-instance02-redis-1  Starting
+ Container firecrawl-instance02-redis-1  Started
+ Container firecrawl-instance02-playwright-service-1  Started
+ Container firecrawl-instance02-api-1  Starting
+ Container firecrawl-instance02-api-1  Started
+Error response from daemon: failed to set up container networking: driver failed programming external connectivity on endpoint firecrawl-instance02-nuq-postgres-1 (2edfdd7ef390eb634a618799ee9a4b510b2446b78b531b35065ebaab8e042d3f): Bind for 0.0.0.0:5432 failed: port is already allocated
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"BLOCK_MEDIA\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:06:17+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+ Network firecrawl-instance02_backend  Creating
+ Network firecrawl-instance02_backend  Created
+ Container firecrawl-instance02-nuq-postgres-1  Creating
+ Container firecrawl-instance02-playwright-service-1  Creating
+ Container firecrawl-instance02-redis-1  Creating
+ Container firecrawl-instance02-playwright-service-1  Created
+ Container firecrawl-instance02-nuq-postgres-1  Created
+ Container firecrawl-instance02-redis-1  Created
+ Container firecrawl-instance02-api-1  Creating
+ Container firecrawl-instance02-api-1  Created
+ Container firecrawl-instance02-playwright-service-1  Starting
+ Container firecrawl-instance02-redis-1  Starting
+ Container firecrawl-instance02-nuq-postgres-1  Starting
+ Container firecrawl-instance02-nuq-postgres-1  Started
+ Container firecrawl-instance02-playwright-service-1  Started
+ Container firecrawl-instance02-redis-1  Started
+ Container firecrawl-instance02-api-1  Starting
+ Container firecrawl-instance02-api-1  Started
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"BLOCK_MEDIA\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:11:17+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+ Network firecrawl-instance02_backend  Creating
+ Network firecrawl-instance02_backend  Created
+ Container firecrawl-instance02-nuq-postgres-1  Creating
+ Container firecrawl-instance02-playwright-service-1  Creating
+ Container firecrawl-instance02-redis-1  Creating
+ Container firecrawl-instance02-playwright-service-1  Created
+ Container firecrawl-instance02-redis-1  Created
+ Container firecrawl-instance02-api-1  Creating
+ Container firecrawl-instance02-nuq-postgres-1  Created
+ Container firecrawl-instance02-api-1  Created
+ Container firecrawl-instance02-redis-1  Starting
+ Container firecrawl-instance02-nuq-postgres-1  Starting
+ Container firecrawl-instance02-playwright-service-1  Starting
+ Container firecrawl-instance02-redis-1  Started
+ Container firecrawl-instance02-nuq-postgres-1  Started
+ Container firecrawl-instance02-playwright-service-1  Started
+ Container firecrawl-instance02-api-1  Starting
+ Container firecrawl-instance02-api-1  Started
+[2025-11-16 01:18:32] Crawl started - ID: c8d8b4a1-bc78-4596-a473-825e41c4d891
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"BLOCK_MEDIA\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:20:38+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+ Container firecrawl-instance02-nuq-postgres-1  Starting
+ Container firecrawl-instance02-redis-1  Starting
+ Container firecrawl-instance02-playwright-service-1  Starting
+ Container firecrawl-instance02-playwright-service-1  Started
+ Container firecrawl-instance02-redis-1  Started
+ Container firecrawl-instance02-api-1  Starting
+ Container firecrawl-instance02-nuq-postgres-1  Started
+ Container firecrawl-instance02-api-1  Started
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"BLOCK_MEDIA\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T01:22:08+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+ Container firecrawl-instance02-playwright-service-1  Starting
+ Container firecrawl-instance02-nuq-postgres-1  Starting
+ Container firecrawl-instance02-redis-1  Starting
+ Container firecrawl-instance02-redis-1  Started
+ Container firecrawl-instance02-playwright-service-1  Started
+ Container firecrawl-instance02-api-1  Starting
+ Container firecrawl-instance02-nuq-postgres-1  Started
+ Container firecrawl-instance02-api-1  Started
+[2025-11-16 01:23:25] Crawl started - ID: 2b97acea-e50d-4d62-868e-b76649a6f7a7
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"POSTHOG_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"MODEL_EMBEDDING_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SEARXNG_CATEGORIES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SUPABASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"MODEL_NAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SUPABASE_SERVICE_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SLACK_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SUPABASE_ANON_TOKEN\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SEARXNG_ENDPOINT\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"OPENAI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"POSTHOG_HOST\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SERPER_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SEARCHAPI_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SEARXNG_ENGINES\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"OPENAI_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"SELF_HOSTED_WEBHOOK_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"OLLAMA_BASE_URL\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"TEST_API_KEY\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"PROXY_SERVER\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"PROXY_USERNAME\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"PROXY_PASSWORD\" variable is not set. Defaulting to a blank string."
+time="2025-11-16T17:34:39+08:00" level=warning msg="The \"BLOCK_MEDIA\" variable is not set. Defaulting to a blank string."
+ Network firecrawl-instance02_backend  Creating
+ Network firecrawl-instance02_backend  Created
+ Container firecrawl-instance02-nuq-postgres-1  Creating
+ Container firecrawl-instance02-redis-1  Creating
+ Container firecrawl-instance02-playwright-service-1  Creating
+ Container firecrawl-instance02-playwright-service-1  Created
+ Container firecrawl-instance02-redis-1  Created
+ Container firecrawl-instance02-nuq-postgres-1  Created
+ Container firecrawl-instance02-api-1  Creating
+ Container firecrawl-instance02-api-1  Created
+ Container firecrawl-instance02-redis-1  Starting
+ Container firecrawl-instance02-playwright-service-1  Starting
+ Container firecrawl-instance02-nuq-postgres-1  Starting
+ Container firecrawl-instance02-redis-1  Started
+ Container firecrawl-instance02-nuq-postgres-1  Started
+ Container firecrawl-instance02-playwright-service-1  Started
+ Container firecrawl-instance02-api-1  Starting
+ Container firecrawl-instance02-api-1  Started
+[2025-11-16 17:35:33] Crawl started - ID: 1d2315da-3500-49e3-8835-34546374894a

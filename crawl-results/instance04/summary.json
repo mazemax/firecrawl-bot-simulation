@@ -1,0 +1,8 @@
+{
+  "status": "scraping",
+  "completed": 742,
+  "total": 2007,
+  "expiresAt": "2025-11-16T19:23:15.000Z",
+  "creditsUsed": -1,
+  "next": "http://localhost:3005/v1/crawl/fe3efe1a-84a1-4b12-88a0-e4b268d809e0?skip=100"
+}
