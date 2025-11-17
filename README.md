@@ -1,6 +1,6 @@
 # Firecrawl Bot Traffic Simulation
 
-This project sets up concurrent Firecrawl instances to simulate high bot traffic against mindvalley.com, as per the PRD document.
+This project sets up concurrent Firecrawl instances to simulate high bot traffic against mindvalley.com.
 
 ## Project Structure
 
